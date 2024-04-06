@@ -1,1 +1,1 @@
-You have to downlaoad node modules. that's all
+You have to download node modules. that's all
